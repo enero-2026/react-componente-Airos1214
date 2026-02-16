@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Tests passed\""
+    "test": "echo \"Tests passed\"",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
